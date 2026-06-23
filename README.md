@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" alt="Platform">
 </p>
 
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP._uRpcFFPs8kk02oYYiTzuAHaEj%3Fpid%3DApi&f=1&ipt=72bf1d56b66b7faeb4eb567d6e804c4b6f2f21f8e64df0b67f41a2b3cea46673&ipo=images" alt="Software Interface" width="800" style="border-radius: 10px;">
+</p>
+
 > A highly optimized, licensed custom assembly of **After Effects** designed for maximum stability, reduced resource consumption, and an improved user interface.
 
 Standard installations often carry unnecessary background services and heavy UI elements. This custom build strips away the bloat while maintaining 100% core functionality, providing a seamless and responsive workflow.
